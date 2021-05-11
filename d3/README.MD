@@ -1,0 +1,1 @@
+docker-compose with mysqli php extension enabled
